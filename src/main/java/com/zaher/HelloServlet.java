@@ -145,7 +145,7 @@ public class HelloServlet extends HttpServlet {
                 <script>
                     new Typed('#typed-text', {
                         strings: [
-                            "Hello, I'm mr.suraj shivaji sanap from maharashtra 👋",
+                            "Hello, I'm mr.suraj shivaji sanap 👋",
                             "DevOps Engineer",
                             "Welcome to My App!"
                         ],
